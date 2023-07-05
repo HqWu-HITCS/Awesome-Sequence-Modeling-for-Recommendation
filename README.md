@@ -89,6 +89,8 @@ Welcome to open an issue or make a pull request!
 
 ## MLP
 
+- [[WWW22] AutoMLP: Automated MLP for Sequential Recommendations](https://arxiv.org/pdf/2303.06337.pdf)
+
 - [[IjCAI22] MLP4Rec: A Pure MLP Architecture for Sequential Recommendations](https://arxiv.org/pdf/2204.11510.pdf)
 
 - [[WWW22] Filter-enhanced MLP is All You Need for Sequential Recommendation](https://arxiv.org/pdf/2202.13556.pdf)

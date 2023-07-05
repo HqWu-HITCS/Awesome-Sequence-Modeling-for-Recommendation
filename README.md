@@ -1,2 +1,131 @@
-# Awesome-Sequence-Modeling-for-Recommendation
-An Awesome Collection for Sequential Recommendation and Sequence Modeling in Recommend System
+<h1 align="center">
+Awesome-Sequence-Modeling-for-Recommendation
+</h1>
+<p align="center">
+<font face="黑体" color=orange size=3"> An Awesome Collection for Sequential Recommendation and Sequence Modeling in Recommend System</font>
+</p>
+
+<p align="center">
+  <a href="https://github.com/HqWu-HITCS/Awesome-Sequence-Modeling-for-Recommendation/stargazers"> <img src="https://img.shields.io/github/stars/HqWu-HITCS/Awesome-Sequence-Modeling-for-Recommendation.svg?style=popout-square" alt="GitHub stars"></a>
+  <a href="https://github.com/HqWu-HITCS/Awesome-Sequence-Modeling-for-Recommendation/issues"> <img src="https://img.shields.io/github/issues/HqWu-HITCS/Awesome-Sequence-Modeling-for-Recommendation.svg?style=popout-square" alt="GitHub issues"></a>
+  <a href="https://github.com/HqWu-HITCS/Awesome-Sequence-Modeling-for-Recommendation/forks"> <img src="https://img.shields.io/github/forks/HqWu-HITCS/Awesome-Sequence-Modeling-for-Recommendation.svg?style=popout-square" alt="GitHub forks"></a>
+</p>
+
+This repository is to collect the resource of sequential recommendation and sequence modeling in recommend System.
+
+We strongly encourage the researchers that want to promote their fantastic work to this community to make pull request to update their paper's information!
+
+Keyword: Recommend System, sequential recommend, sequence modeling
+
+Welcome to open an issue or make a pull request!
+
+- [Tutorial ](#tutorial)
+- [Survey](#survey)
+- [Richer Sequence](#richer-sequence)
+  - [Side/Session information modeling](#sidesession-information-modeling)
+  - [Multi-Behavior modeling](#multi-behavior-modeling)
+  - [Long Sequence Modeling](#long-sequence-modeling)
+- [Model Structure](#model-structure)
+  - [Attention](#attention)
+  - [MLP](#mlp)
+  - [GNN](#gnn)
+  - [VAE](#vae)
+- [Model Training](#model-training)
+- [Tool](#tool)
+
+
+# Tutorial 
+
+-  [[SIGIR22l] Sequential/Session-based Recommendations: Challenges, Approaches, Applications and Opportunities ](https://neurec22.github.io/SRS&SBRS/)
+
+
+# Survey
+
+- [[IJCAI19] Sequential Recommender Systems: Challenges, Progress and Prospects](https://arxiv.org/abs/2001.04830)
+
+
+# Richer Sequence
+
+## Side/Session information modeling
+
+- [[SIGIR22] Decoupled Side Information Fusion for Sequential Recommendation](https://arxiv.org/pdf/2204.11046.pdf)
+
+- [[SIGIR22] Exploiting Session Information in BERT-based Session-aware Sequential Recommendation](https://arxiv.org/pdf/2204.10851.pdf)
+
+- [[WWW22] Sequential Modeling with Multiple Attributes for Watchlist Recommendation in E-Commerce](https://arxiv.org/pdf/2110.11072.pdf)
+
+- [[AAAI21] Non-invasive Self-attention for Side Information Fusion in Sequential Recommendation](https://arxiv.org/abs/2103.03578)
+
+## Multi-Behavior modeling
+
+- [[CIKM22] Dual-Task Learning for Multi-Behavior Sequential Recommendation](https://dl.acm.org/doi/10.1145/3511808.3557298)
+
+- [[SIGIR22] Multi-Behavior Sequential Transformer Recommender](https://dl.acm.org/doi/abs/10.1145/3477495.3532023)
+
+- [[IJCAI22] Self-supervised Graph Neural Networks for Multi-behavior Recommendation](http://shichuan.org/doc/134.pdf)
+
+- [[TKDE22] Multi-Behavior Sequential Recommendation with Temporal Graph Transformer](https://arxiv.org/pdf/2206.02687.pdf)
+
+## Long Sequence Modeling
+
+- [[CIKM22] Sampling Is All You Need on Modeling Long-Term User Behaviors for CTR Prediction](https://arxiv.org/abs/2205.10249)
+
+- [[Arxiv21] End-to-End User Behavior Retrieval in Click-Through Rate Prediction Model](https://arxiv.org/pdf/2108.04468.pdf)
+
+- [[CIKM20] Search-based User Interest Modeling with Lifelong Sequential Behavior Data for Click-Through Rate Prediction](https://dl.acm.org/doi/abs/10.1145/3340531.3412744)
+
+- [[KDD19] Practice on Long Sequential User Behavior Modeling for Click-Through Rate Prediction](https://dl.acm.org/doi/10.1145/3292500.3330666)
+
+
+# Model Structure
+
+## Attention
+
+- [[CIKM21] Modeling Sequences as Distributions with Uncertainty for Sequential Recommendation](https://dl.acm.org/doi/pdf/10.1145/3459637.3482145)
+
+- [[WWW22] Sequential Recommendation via Stochastic Self-Attention](https://arxiv.53yu.com/pdf/2201.06035.pdf)
+
+- [[CIKM19] BERT4Rec: Sequential Recommendation with Bidirectional Encoder Representations from Transformer](https://arxiv.org/abs/1904.06690)
+
+## MLP
+
+- [[IjCAI22] MLP4Rec: A Pure MLP Architecture for Sequential Recommendations](https://arxiv.org/pdf/2204.11510.pdf)
+
+- [[WWW22] Filter-enhanced MLP is All You Need for Sequential Recommendation](https://arxiv.org/pdf/2202.13556.pdf)
+
+
+## GNN
+
+- [[IJCAI22] Enhancing Sequential Recommendation with Graph Contrastive Learning](https://arxiv.org/pdf/2205.14837.pdf)
+
+- [[ICDE21] Edge-Enhanced Global Disentangled Graph Neural Network for Sequential Recommendation](https://arxiv.org/pdf/2111.10539.pdf)
+
+- [[SIGIR21] Sequential Recommendation with Graph Neural Networks](https://arxiv.org/pdf/2106.14226.pdf)
+
+## VAE
+
+- [[CIKM22] ContrastVAE: Contrastive Variational AutoEncoder for Sequential Recommendation](https://arxiv.org/pdf/2103.10693.pdf)
+
+- [[WWW21] Adversarial and Contrastive Variational Autoencoder for Sequential Recommendation](https://arxiv.org/pdf/2103.10693.pdf)
+
+# Model Training
+
+- [[SIGIR22] ELECRec: Training Sequential Recommenders as Discriminators](https://arxiv.org/pdf/2204.02011.pdf)
+
+- [[Arxiv2021] Contrastive Learning for Sequential Recommendation](https://arxiv.org/pdf/2010.14395.pdf)
+
+- [[Arxiv2021] Contrastive Self-supervised Sequential Recommendation with Robust Augmentation](https://arxiv.org/pdf/2108.06479.pdf)
+
+- [[WSDM22] Contrastive Learning for Representation Degeneration Problem in Sequential Recommendation](https://arxiv.org/pdf/2110.05730.pdf)
+
+- [[WWW22] Intent Contrastive Learning for Sequential Recommendation](https://dl.acm.org/doi/pdf/10.1145/3485447.3512090)
+
+- [[CIKM20] S3-Rec: Self-Supervised Learning for Sequential Recommendation with Mutual Information Maximization](https://arxiv.org/abs/2008.07873.pdf)
+
+
+# Tool
+
+- [[NVIDIA] Transformers4Rec](https://github.com/NVIDIA-Merlin/Transformers4Rec)
+![](https://img.shields.io/github/stars/NVIDIA-Merlin/Transformers4Rec.svg)
+
+

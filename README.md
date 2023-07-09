@@ -23,6 +23,7 @@ Welcome to open an issue or make a pull request!
 - [Survey](#survey)
 - [Richer Sequence](#richer-sequence)
   - [Side/Session information modeling](#sidesession-information-modeling)
+  - [Text information modeling](#text-information-modeling)
   - [Multi-Behavior modeling](#multi-behavior-modeling)
   - [Long Sequence Modeling](#long-sequence-modeling)
 - [Model Structure](#model-structure)
@@ -31,6 +32,8 @@ Welcome to open an issue or make a pull request!
   - [GNN](#gnn)
   - [VAE](#vae)
 - [Model Training](#model-training)
+  - [Learning Paradigm](#learning-paradigm)
+  - [Negative sampling](#negative-sampling)
 - [Tool](#tool)
 
 
@@ -55,6 +58,12 @@ Welcome to open an issue or make a pull request!
 - [[WWW22] Sequential Modeling with Multiple Attributes for Watchlist Recommendation in E-Commerce](https://arxiv.org/pdf/2110.11072.pdf)
 
 - [[AAAI21] Non-invasive Self-attention for Side Information Fusion in Sequential Recommendation](https://arxiv.org/abs/2103.03578)
+
+## Text information modeling
+
+- [[KDD23] Text Is All You Need: Learning Language Representations for Sequential Recommendation](https://arxiv.org/pdf/2305.13731.pdf)
+
+- [[KDD22] Towards Universal Sequence Representation Learning for Recommender Systems](https://arxiv.org/pdf/2206.05941.pdf)
 
 ## Multi-Behavior modeling
 
@@ -98,6 +107,8 @@ Welcome to open an issue or make a pull request!
 
 ## GNN
 
+- [[SIGIR23] Graph Masked Autoencoder for Sequential Recommendation](https://arxiv.org/pdf/2305.04619.pdf)
+
 - [[IJCAI22] Enhancing Sequential Recommendation with Graph Contrastive Learning](https://arxiv.org/pdf/2205.14837.pdf)
 
 - [[ICDE21] Edge-Enhanced Global Disentangled Graph Neural Network for Sequential Recommendation](https://arxiv.org/pdf/2111.10539.pdf)
@@ -112,6 +123,10 @@ Welcome to open an issue or make a pull request!
 
 # Model Training
 
+## Learning Paradigm
+
+- [[WWW23] Debiased Contrastive Learning for Sequential Recommendation](https://arxiv.org/pdf/2303.11780.pdf)
+
 - [[SIGIR22] ELECRec: Training Sequential Recommenders as Discriminators](https://arxiv.org/pdf/2204.02011.pdf)
 
 - [[Arxiv2021] Contrastive Learning for Sequential Recommendation](https://arxiv.org/pdf/2010.14395.pdf)
@@ -124,6 +139,9 @@ Welcome to open an issue or make a pull request!
 
 - [[CIKM20] S3-Rec: Self-Supervised Learning for Sequential Recommendation with Mutual Information Maximization](https://arxiv.org/abs/2008.07873.pdf)
 
+## Negative sampling
+
+- [[SIGIR23] Neighborhood-based Hard Negative Mining for Sequential Recommendation](https://arxiv.org/pdf/2306.10047.pdf)
 
 # Tool
 

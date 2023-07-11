@@ -90,6 +90,8 @@ Welcome to open an issue or make a pull request!
 
 ## Attention
 
+- [[KDD23] Adaptive Disentangled Transformer for Sequential Recommendation](http://mn.cs.tsinghua.edu.cn/xinwang/PDF/papers/2023_Adaptive%20Disentangled%20Transformer%20for%20Sequential%20Recommendation.pdf)
+
 - [[CIKM21] Modeling Sequences as Distributions with Uncertainty for Sequential Recommendation](https://dl.acm.org/doi/pdf/10.1145/3459637.3482145)
 
 - [[WWW22] Sequential Recommendation via Stochastic Self-Attention](https://arxiv.53yu.com/pdf/2201.06035.pdf)
@@ -125,6 +127,8 @@ Welcome to open an issue or make a pull request!
 
 ## Learning Paradigm
 
+- [[RecSys2023] Equivariant Contrastive Learning for Sequential Recommendation](https://arxiv.org/abs/2211.05290)
+
 - [[WWW23] Debiased Contrastive Learning for Sequential Recommendation](https://arxiv.org/pdf/2303.11780.pdf)
 
 - [[SIGIR22] ELECRec: Training Sequential Recommenders as Discriminators](https://arxiv.org/pdf/2204.02011.pdf)
@@ -140,6 +144,8 @@ Welcome to open an issue or make a pull request!
 - [[CIKM20] S3-Rec: Self-Supervised Learning for Sequential Recommendation with Mutual Information Maximization](https://arxiv.org/abs/2008.07873.pdf)
 
 ## Negative sampling
+
+- [[RecSys2023] gSASRec: Reducing Overconfidence in Sequential Recommendation Trained with Negative Sampling](https://eprints.gla.ac.uk/301348/)
 
 - [[SIGIR23] Neighborhood-based Hard Negative Mining for Sequential Recommendation](https://arxiv.org/pdf/2306.10047.pdf)
 

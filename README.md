@@ -34,6 +34,7 @@ Welcome to open an issue or make a pull request!
 - [Model Training](#model-training)
   - [Learning Paradigm](#learning-paradigm)
   - [Negative sampling](#negative-sampling)
+  - [Data Augmentation](#data-augmentation)
 - [Tool](#tool)
 
 
@@ -149,7 +150,16 @@ Welcome to open an issue or make a pull request!
 
 - [[SIGIR23] Neighborhood-based Hard Negative Mining for Sequential Recommendation](https://arxiv.org/pdf/2306.10047.pdf)
 
+## Data Augmentation
+
+- [[AAAI23] Uniform Sequence Better: Time Interval Aware Data Augmentation for Sequential Recommendation](https://arxiv.org/pdf/2212.08262.pdf)
+
+- [[SIGIR21] Counterfactual Data-Augmented Sequential Recommendation](https://dl.acm.org/doi/10.1145/3404835.3462855)
+
 # Tool
+
+- [[RUC] RecBole](https://github.com/RUCAIBox/RecBole)
+![](https://img.shields.io/github/stars/RUCAIBox/RecBole.svg)
 
 - [[NVIDIA] Transformers4Rec](https://github.com/NVIDIA-Merlin/Transformers4Rec)
 ![](https://img.shields.io/github/stars/NVIDIA-Merlin/Transformers4Rec.svg)

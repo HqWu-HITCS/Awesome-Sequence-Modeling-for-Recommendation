@@ -93,6 +93,8 @@ Welcome to open an issue or make a pull request!
 
 - [[KDD23] Adaptive Disentangled Transformer for Sequential Recommendation](http://mn.cs.tsinghua.edu.cn/xinwang/PDF/papers/2023_Adaptive%20Disentangled%20Transformer%20for%20Sequential%20Recommendation.pdf)
 
+- [[CIKM22] Disentangling Past-Future Modeling in Sequential Recommendation via Dual Networks](https://arxiv.org/abs/2210.14577)
+
 - [[CIKM21] Modeling Sequences as Distributions with Uncertainty for Sequential Recommendation](https://dl.acm.org/doi/pdf/10.1145/3459637.3482145)
 
 - [[WWW22] Sequential Recommendation via Stochastic Self-Attention](https://arxiv.53yu.com/pdf/2201.06035.pdf)
@@ -129,6 +131,8 @@ Welcome to open an issue or make a pull request!
 ## Learning Paradigm
 
 - [[RecSys2023] Equivariant Contrastive Learning for Sequential Recommendation](https://arxiv.org/abs/2211.05290)
+
+- [[WWW23] Mutual Wasserstein Discrepancy Minimization for Sequential Recommendation](https://dl.acm.org/doi/abs/10.1145/3543507.3583529)
 
 - [[WWW23] Debiased Contrastive Learning for Sequential Recommendation](https://arxiv.org/pdf/2303.11780.pdf)
 

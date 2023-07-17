@@ -36,6 +36,7 @@ Welcome to open an issue or make a pull request!
   - [Negative sampling](#negative-sampling)
   - [Data Augmentation](#data-augmentation)
 - [Tool](#tool)
+- [Related Repository](#related-repository)
 
 
 # Tutorial 
@@ -168,4 +169,7 @@ Welcome to open an issue or make a pull request!
 - [[NVIDIA] Transformers4Rec](https://github.com/NVIDIA-Merlin/Transformers4Rec)
 ![](https://img.shields.io/github/stars/NVIDIA-Merlin/Transformers4Rec.svg)
 
+# Related Repository
 
+- [Awesome-LLM4RS-Papers](https://github.com/nancheng58/Awesome-LLM4RS-Papers)
+![](https://img.shields.io/github/stars/nancheng58/Awesome-LLM4RS-Papers.svg)

@@ -96,6 +96,8 @@ Welcome to open an issue or make a pull request!
 
 - [[CIKM22] Disentangling Past-Future Modeling in Sequential Recommendation via Dual Networks](https://arxiv.org/abs/2210.14577)
 
+- [[ICDE22] One Person, One Model—Learning Compound Router for Sequential Recommendation](https://arxiv.org/pdf/2211.02824.pdf)
+
 - [[CIKM21] Modeling Sequences as Distributions with Uncertainty for Sequential Recommendation](https://dl.acm.org/doi/pdf/10.1145/3459637.3482145)
 
 - [[WWW22] Sequential Recommendation via Stochastic Self-Attention](https://arxiv.53yu.com/pdf/2201.06035.pdf)

@@ -175,3 +175,6 @@ Welcome to open an issue or make a pull request!
 
 - [Awesome-LLM4RS-Papers](https://github.com/nancheng58/Awesome-LLM4RS-Papers)
 ![](https://img.shields.io/github/stars/nancheng58/Awesome-LLM4RS-Papers.svg)
+
+- [Awesome-recommend-system-pretraining-papers](https://github.com/archersama/awesome-recommend-system-pretraining-papers)
+![](https://img.shields.io/github/stars/archersama/awesome-recommend-system-pretraining-papers.svg)

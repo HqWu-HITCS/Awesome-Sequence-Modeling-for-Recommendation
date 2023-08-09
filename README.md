@@ -41,7 +41,7 @@ Welcome to open an issue or make a pull request!
 
 # Tutorial 
 
--  [[SIGIR22l] Sequential/Session-based Recommendations: Challenges, Approaches, Applications and Opportunities ](https://neurec22.github.io/SRS&SBRS/)
+- [[SIGIR22l] Sequential/Session-based Recommendations: Challenges, Approaches, Applications and Opportunities ](https://neurec22.github.io/SRS&SBRS/)
 
 
 # Survey
@@ -63,7 +63,11 @@ Welcome to open an issue or make a pull request!
 
 ## Text information modeling
 
+- [[SIGIR23] Where to Go Next for Recommender Systems? ID- vs. Modality-based Recommender Models Revisited](https://arxiv.org/pdf/2303.13835.pdf)
+
 - [[KDD23] Text Is All You Need: Learning Language Representations for Sequential Recommendation](https://arxiv.org/pdf/2305.13731.pdf)
+
+- [[WWW23] Learning Vector-Quantized Item Representation for Transferable Sequential Recommenders](https://arxiv.org/pdf/2210.12316.pdf)
 
 - [[KDD22] Towards Universal Sequence Representation Learning for Recommender Systems](https://arxiv.org/pdf/2206.05941.pdf)
 
@@ -178,3 +182,6 @@ Welcome to open an issue or make a pull request!
 
 - [Awesome-recommend-system-pretraining-papers](https://github.com/archersama/awesome-recommend-system-pretraining-papers)
 ![](https://img.shields.io/github/stars/archersama/awesome-recommend-system-pretraining-papers.svg)
+
+- [Awesome-LLM-for-RecSys](https://github.com/CHIANGEL/Awesome-LLM-for-RecSys)
+![](https://img.shields.io/github/stars/CHIANGEL/Awesome-LLM-for-RecSys.svg)

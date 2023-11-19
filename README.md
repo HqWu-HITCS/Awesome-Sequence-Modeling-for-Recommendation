@@ -35,7 +35,7 @@ Welcome to open an issue or make a pull request!
   - [Learning Paradigm](#learning-paradigm)
   - [Negative sampling](#negative-sampling)
   - [Data Augmentation](#data-augmentation)
-  - [LLM for Sequential Recommendation](#llm-for-sequential-recommendation)
+- [LLM for Sequential Recommendation](#llm-for-sequential-recommendation)
 - [Tool](#tool)
 - [Related Repository](#related-repository)
 
@@ -168,7 +168,7 @@ Welcome to open an issue or make a pull request!
 
 - [[SIGIR21] Counterfactual Data-Augmented Sequential Recommendation](https://dl.acm.org/doi/10.1145/3404835.3462855)
 
-## LLM for Sequential Recommendation
+# LLM for Sequential Recommendation
 
 - [[RecSys23] Counterfactual Data-Augmented Sequential Recommendation](https://arxiv.org/abs/2309.09261)
 
